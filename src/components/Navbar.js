@@ -9,6 +9,7 @@ const Navbar = () => {
 					width='54'
 					height='54'
 					src={Logo}
+					alt='No File found'
 				/>
 				<span class='font-semibold text-xl tracking-tight'>
 					Pixabay Image Gallery
@@ -28,17 +29,17 @@ const Navbar = () => {
 			<div class='w-full  flex-grow justify-center lg:flex lg:items-center lg:justify-center '>
 				<div class='text-sm lg:flex-grow'>
 					<a
-						href='#responsive-header'
+						href
 						class='block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4'>
 						Home
 					</a>
 					<a
-						href='#responsive-header'
+						href
 						class='block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4'>
 						About
 					</a>
 					<a
-						href='#responsive-header'
+						href
 						class='block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white'>
 						Docs
 					</a>

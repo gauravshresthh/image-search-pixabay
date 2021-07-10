@@ -10,42 +10,42 @@ const Footer = () => {
 						<ul className='list-none footer-links'>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Cool stuff
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Random feature
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Team feature
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Stuff for developers
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Another one
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Last time
 								</a>
@@ -57,28 +57,28 @@ const Footer = () => {
 						<ul className='list-none footer-links'>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Resource
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Resource name
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Another resource
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Final resource
 								</a>
@@ -90,28 +90,28 @@ const Footer = () => {
 						<ul className='list-none footer-links'>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Team
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Locations
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Privacy
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href
 									className='border-b border-solid border-transparent hover:border-purple-800 hover:text-purple-800'>
 									Terms
 								</a>
@@ -160,7 +160,7 @@ const Footer = () => {
 								<i className='fab fa-instagram' />
 							</a>
 							<a
-								href='https://github.com/gauravshresthh'
+								href='https://github.com/gauravshresthh/'
 								className='w-8 h-8 border border-2 border-gray-400 rounded-full text-center py-1 ml-2 text-gray-600 hover:text-white hover:bg-red-600 hover:border-red-600'>
 								<i className='fab fa-github' />
 							</a>
