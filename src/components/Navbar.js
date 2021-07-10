@@ -25,7 +25,7 @@ const Navbar = () => {
 					</svg>
 				</button>
 			</div> */}
-			<div class='w-full block flex-grow justify-center lg:flex lg:items-center lg:w-auto'>
+			<div class='w-full  flex-grow justify-center lg:flex lg:items-center lg:justify-center '>
 				<div class='text-sm lg:flex-grow'>
 					<a
 						href='#responsive-header'
